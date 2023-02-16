@@ -13,5 +13,5 @@ In case of data loss, for the regeneration of chunks, the following scenarios ar
 
 In List function, objects are getting listed from the hash table. 
 
-MD5 checksum is used to check if the regenerated file is same as original file. 
+Checksum is used to check if the regenerated file is same as original file. 
 The code works on image, audio and video files along with text files. The data chunks are getting regenerated without any noise.
