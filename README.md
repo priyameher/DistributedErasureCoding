@@ -15,3 +15,5 @@ In List function, objects are getting listed from the hash table. 
 
 Checksum is used to check if the regenerated file is same as original file. 
 The code works on image, audio and video files along with text files. The data chunks are getting regenerated without any noise.
+
+The application works with docker as well. The file to be input is built with the container. The rest of the execution remains same as above.
