@@ -1,4 +1,4 @@
-Problem statement : Distributed Erasure Coded Engine using Intel SPDK
+Problem statement : Distributed Erasure Coded Engine using Intel ISA-L
 
 Code includes implementation of PUT, GET, LIST.
 In the implementation, data chunks and parity are getting generated with the ratio of 8:3.
